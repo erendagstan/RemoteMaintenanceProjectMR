@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8275efdbe76bdff49a97a8e82fba118d, type: 3}
+  m_Name: RemotingMixedRealityHandTrackingProfile
+  m_EditorClassIdentifier: 
+  isCustomProfile: 1
+  jointPrefab: {fileID: 3792927933189981875, guid: 42bfeeeadbbd84c45931006f9aa7f968,
+    type: 3}
+  palmPrefab: {fileID: 3792927933189981875, guid: 42bfeeeadbbd84c45931006f9aa7f968,
+    type: 3}
+  fingertipPrefab: {fileID: 3792927933189981875, guid: 42bfeeeadbbd84c45931006f9aa7f968,
+    type: 3}
+  systemHandMeshMaterial: {fileID: 2100000, guid: 45082b98567b3d44ca3bdbe39f46041a,
+    type: 2}
+  riggedHandMeshMaterial: {fileID: 2100000, guid: 46180a965b426614f97a7239d1248a1a,
+    type: 2}
+  handMeshPrefab: {fileID: 1887883006053652, guid: 360a7f427800f5a4896a7f661627e9c3,
+    type: 3}
+  handMeshVisualizationModes: 0
+  handJointVisualizationModes: 1
